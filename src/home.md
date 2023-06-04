@@ -10,6 +10,8 @@ tag:
 star: true
 author: Chengdu Changxiang Technology Co., Ltd.
 editLink: false
+lastUpdated: false
+contributors: false
 
 # sticky: true
 ---
