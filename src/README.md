@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 成都长享科技有限公司
 bgImage: /assets/images/cover7.jpg
-heroImage: /logo.svg
+heroImage: /icon.svg
 heroText: 成都长享科技有限公司
 heroFullScreen: true
 tagline: 长享科技，智造未来
@@ -39,7 +39,7 @@ tagline: 长享科技，智造未来
 #     desc: 自定义详细介绍
 #     link: https://你的自定义链接
 
-footer: Chengdu Changxiang Technology Co., Ltd. | 长享科技，智造未来
+footer: Changxiang Tech, Future Perfect | 长享科技，智造未来
 ---
 
 <!-- 这是一个博客主页的案例。

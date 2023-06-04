@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "长享科技，智造未来",
+  footer: "长享科技，智造未来 | Changxiang Tech, Future Perfect",
 
   displayFooter: true,
 
