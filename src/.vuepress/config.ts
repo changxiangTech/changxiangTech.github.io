@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "成都长享科技有限公司",
+  description: "成都长享科技有限公司官网，长享科技，智造未来。",
 
   theme,
 

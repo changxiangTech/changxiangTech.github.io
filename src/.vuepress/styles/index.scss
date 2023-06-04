@@ -1,1 +1,52 @@
 // place your custom styles here
+.vp-blog-hero {
+    // background-color: #096dd9;
+    text-align: center;
+}
+
+.vp-blog-hero-title {
+    font-size: 3rem;
+    background-color: rgb(6, 203, 225, 0.5);
+    width: 100%;
+    padding-top: 1.2rem;
+}
+
+.vp-blog-hero-description {
+    font-size: 2rem;
+    background-color: rgb(6, 203, 225, 0.5);
+    padding-top: 1.2rem;
+    margin: 0 auto 0;
+    width: 100%;
+}
+
+.vp-article-title {
+    font-size: 3rem;
+
+}
+
+// .vp-article-item {
+//     a {
+        
+//     }
+// }
+.vp-article-title {
+    text-decoration: underline;
+    text-decoration-color: var(--theme-color);
+    text-underline-offset:1.1rem;
+}
+
+.vp-article-title:hover {
+    text-decoration: none;
+}
+
+.cluster-label {
+    padding-top: 0.5rem;
+}
+
+.label-container {
+    // fill: #4abf8a;
+    // stroke: #4abf8a;
+    fill: var(--theme-color);
+    stroke: var(--theme-color);
+    stroke-width: 1px;
+}
